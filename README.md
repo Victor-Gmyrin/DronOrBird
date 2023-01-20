@@ -1,5 +1,10 @@
-## Dron vs Bird image data collection
+## Многоклассовая классификация изображений по небольшому объёму данных: определение на фотографии птицы или БПЛА
+Многоклассовая классификация изображений по небольшому объёму данных: определение на фотографии птицы или БПЛА
 
-Project Summary: To build a public open dataset of UAV and bird images forneural network training. Data will be collected from public sources. All images and data will be released publicly in this GitHub repo.
+## Авторы
+АНИКИН Дмитрий, ИСКУЖИН Ирамаль, АХМЕТОВ Вадим, КИСЕЛЕВ Павел, ГМЫРИН Виктор
 
-## View current [images](https://www.dropbox.com/scl/fo/3wvoxavz83ym6obt2ktr1/h?dl=0&rlkey=w85abmidyfjusl91veyosay29) and [a dataloader example](https://colab.research.google.com/drive/1Hpl_3_qmKMLv7sdCWR6-C5Li6F_ZvCb_?usp=sharing)
+## Описание
+Решение задачи в рамках учебного хакатона по классификации изображений. В качестве источника данных использовались открытые источники. Для решения задачи использовалась предобученная сеть EfficientNetB0.
+
+## Структура репозитория
