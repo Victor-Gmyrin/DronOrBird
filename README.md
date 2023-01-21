@@ -43,6 +43,7 @@ Google Картинки,
 
 1. [Дукументация EfficientNet на pytorch.org](https://pytorch.org/vision/stable/models/efficientnet.html)
 2. [Wiki: Transformer](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)), ([на русском](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80_(%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)))
+3. [Дукументация EfficientNet на keras.io](https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/)
 
 ### Авторы
 - [Искужин Иремель](https://github.com/Lemeri02)
