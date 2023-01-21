@@ -28,7 +28,7 @@ Yandex Картинки,
 Google Картинки,
 Готовый [датасет](https://lila.science/datasets/caltech-camera-traps)
 
-После сбора данные в виде фотографий были отсортированы и собраны в [датасет](https://www.dropbox.com/scl/fo/3wvoxavz83ym6obt2ktr1/h?dl=0&rlkey=w85abmidyfjusl91veyosay29) [Google Drive](https://drive.google.com/drive/folders/1PjSBL6W4I8o9_NLbFEp0-ZQqAALrRjSu)
+После сбора данные в виде фотографий были отсортированы и собраны в [датасет Dropbox (zip)](https://www.dropbox.com/scl/fo/3wvoxavz83ym6obt2ktr1/h?dl=0&rlkey=w85abmidyfjusl91veyosay29) / [Google Drive](https://drive.google.com/drive/folders/1PjSBL6W4I8o9_NLbFEp0-ZQqAALrRjSu)
 
 ### Результаты работы
 
