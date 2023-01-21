@@ -23,9 +23,9 @@
 ### Подготовка датасета
 
 Датасет собирался из различных открытых источников:
-Скриншоты из видео на youtube.com - [дроны](https://youtu.be/nzvISPjWJcI?t=660), [птицы](https://www.youtube.com/watch?v=zxzUW3Xw0-Y)
-Yandex Картинки
-Google Картинки
+Скриншоты из видео на youtube.com - [дроны](https://youtu.be/nzvISPjWJcI?t=660), [птицы](https://www.youtube.com/watch?v=zxzUW3Xw0-Y),
+Yandex Картинки,
+Google Картинки,
 Готовый [датасет](https://lila.science/datasets/caltech-camera-traps)
 
 После сбора данные в виде фотографий были отсортированы и собраны в [датасет](https://www.dropbox.com/scl/fo/3wvoxavz83ym6obt2ktr1/h?dl=0&rlkey=w85abmidyfjusl91veyosay29)
