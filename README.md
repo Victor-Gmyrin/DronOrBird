@@ -38,9 +38,6 @@ Google Картинки,
 
 Ссылка на [Google Colab](https://colab.research.google.com/drive/1Hpl_3_qmKMLv7sdCWR6-C5Li6F_ZvCb_#scrollTo=vVuZxS7MbQNQ)
 
-### Структура репозитория
-Каталог notebook содержит решение в формате Jupyter Notebook.
-
 ### Источники
 
 1. [Дукументация EfficientNet на pytorch.org](https://pytorch.org/vision/stable/models/efficientnet.html)
