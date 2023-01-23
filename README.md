@@ -34,7 +34,7 @@ Google Картинки,
 
 ![image](https://user-images.githubusercontent.com/118006933/213861570-2bfd95b9-f0b6-4cf5-955c-da9a355d299e.png)
 
-Как можем видеть, максимально точно сеть отработала с использованием модели EfficientNetB7, но и время обучения там получилось максимальным.
+Обучение длилось 10 эпох, максимально точно сеть отработала с использованием модели EfficientNetB7, но и время обучения там получилось максимальным.
 
 Ссылка на [Google Colab](https://colab.research.google.com/drive/1Hpl_3_qmKMLv7sdCWR6-C5Li6F_ZvCb_#scrollTo=vVuZxS7MbQNQ)
 
